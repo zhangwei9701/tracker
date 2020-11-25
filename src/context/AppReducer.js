@@ -1,3 +1,4 @@
+//this is bascailly where we make app recucer :)
 export default (state, action) => {
     switch(action.type){
         case 'DELETE_TRANSACTION':
